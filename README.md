@@ -1,4 +1,4 @@
-##LVDU - Libvirt QCOW2 Disk Usage Monitor
+#LVDU - Libvirt QCOW2 Disk Usage Monitor
 
 This is a simple Bash/Zsh script to monitor QCOW2 disk usage for your Libvirt virtual machines.
 It displays a panel with disk names and sizes, refreshing at a customizable interval.
