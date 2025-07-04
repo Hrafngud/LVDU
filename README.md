@@ -17,10 +17,8 @@ It displays a live panel of disk names and sizes, refreshing at a configurable i
 ## Clone the Repository
 
 ```bash
-git clone https://your-repository-url.git
+git clone https://github.com/Hrafngud/LVDU.git
 ````
-
-Replace `your-repository-url.git` with your actual repository URL.
 
 ---
 
